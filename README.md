@@ -6,4 +6,4 @@
 - [Roman Moskalenko](https://github.com/Roma17072/JavaExternal)
 - [Vitaliy Mysechko](https://github.com/vmysechko/JavaExternal)
 - [Olexiy Yevchenko](https://github.com/oyevchenko/JavaExternal)
-- [Alexander Andreyev](github.com/Menacing15/javaexternal)
+- [Alexander Andreyev](https://github.com/Menacing15/javaexternal)
